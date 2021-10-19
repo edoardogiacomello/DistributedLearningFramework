@@ -1,21 +1,21 @@
 # DistributedLearningFramework
 Python Framework for performing Distributed Deep Learning in privacy preserving scenarios, such as imaging in healthcare.
 
-# Requirements
+## Requirements
 
-# Setup
+## Setup
 
-# Environment
+## Environment
 
-# Modules
+## Modules
 
-# Datasets
+## Datasets
 
-# Models
+## Models
 
-# Examples
+## Examples
 
-# How to add a Dataset
+## How to add a Dataset
 
-# How to add a Model
+## How to add a Model
 
